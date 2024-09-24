@@ -39,4 +39,6 @@ A modern flight booking application designed to provide an intuitive and efficie
    server/env: API_URL=https://api.schiphol.nl/public-flights/
 
 ## Photos
-![Home]([http://url/to/img.png](https://i.ibb.co/3mjpkHk/home.png))
+![Home](https://github.com/kemalgundogdu/placescape/blob/main/home.png?raw=true)
+![Saved Tickets](https://github.com/kemalgundogdu/placescape/blob/main/tickets.png?raw=true)
+
